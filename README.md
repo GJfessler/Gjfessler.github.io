@@ -3,5 +3,4 @@
 
 today we are going to talk about my interests and hobbies
 
-[![Now in Android: 55]// Title(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail(https://www.youtube.com/watch?v=89dGC8de0CA "Now in Android: 55")    // Video Link
-
+<video src='https://www.youtube.com/watch?v=89dGC8de0CA' width=180/>

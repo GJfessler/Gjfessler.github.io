@@ -1,8 +1,3 @@
----
-layout: default
-title: gjfessler.github.io
----
-
 # Hi welcome to my github page!
 **this page is just for testing my capabilities in making a website**
 

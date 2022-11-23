@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hi welcome to my github page!
+title: gjfessler.github.io
 ---
 
 # Hi welcome to my github page!

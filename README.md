@@ -3,7 +3,7 @@
 
 today we are going to talk about my interests and hobbies
 
-# OutKast
+# Music
 
 The outkast is one of my favorite bands because the songs have a somewhat deep meaning and are just very catchy in general
 
@@ -20,3 +20,9 @@ another artist that I like is Michael Jackson, though he isn't with us in the wo
 The last person that I like to listen to is jamiroquai 
 
 [jamiroquai youtube channel](https://www.youtube.com/@JamiroquaiVEVO)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4JkIs37a2JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Hobbies
+
+One of my favorite things to do is bake, If I have the recipe

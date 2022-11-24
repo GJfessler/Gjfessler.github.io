@@ -30,3 +30,6 @@ One of my favorite things to do is bake, If I have the recipe I will be able to 
 My favorite thing to bake is chocolate chip cookies because they are simple but at the same time they are very delicious.
 
 ![alt text](https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg)
+
+another one of my hobbies is drawing, though I am not the best at drawing I still like to have my mind roam free without problems.
+![alt text](https://cdn.pixabay.com/photo/2020/12/25/08/18/hand-drawing-5858840_1280.png)

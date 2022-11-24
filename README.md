@@ -25,4 +25,8 @@ The last person that I like to listen to is jamiroquai
 
 # Hobbies
 
-One of my favorite things to do is bake, If I have the recipe
+One of my favorite things to do is bake, If I have the recipe I will be able to bake what you need, though it would take some time.
+
+My favorite thing to bake is chocolate chip cookies because they are simple but at the same time they are very delicious.
+
+![alt text](https://images-gmi-pmc.edge-generalmills.com/087d17eb-500e-4b26-abd1-4f9ffa96a2c6.jpg)
